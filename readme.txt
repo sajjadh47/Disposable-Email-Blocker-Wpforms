@@ -2,7 +2,7 @@
 Contributors: sajjad67
 Tags: disposable-email-blocker, temporary-email-blocker, blocker, temporary-email, wpforms
 Requires at least: 5.6
-Tested up to: 6.0
+Tested up to: 6.6
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,8 +53,12 @@ Just after installing Disposable Email Blocker - WPForms plugin, create or edit 
 2. Message Edit Screen && Enable/Disable Filtering
 
 == Changelog ==
+= 1.0.3 =
+- Compatibility check for wp 6.6
+= 1.0.2 =
+- Compatibility check for wp 6.3
 = 1.0.1 =
-- Compatibility check for wp 6.0.
+- Compatibility check for wp 6.0
 = 1.0.0 =
 - Initial release.
 
